@@ -34,8 +34,9 @@ python3 -m venv <nome_do_ambiente>
     ```
 
 - Com o ambiente já instalado e ativado, precisamos agora instalar as dependências, ainda no terminal, digite:
+
 ```
 pip install -r requirements.txt
-    ```
+```
 
 Pronto! Você já está apto a executar todo projeto e verificar os resultados!
