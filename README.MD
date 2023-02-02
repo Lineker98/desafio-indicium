@@ -30,7 +30,7 @@ python3 -m venv <nome_do_ambiente>
 
     - Windows:
     ```
-    <name_of_environment>\Scripts\activate
+    <name_do_ambientet>\Scripts\activate
     ```
 
 - Com o ambiente já instalado e ativado, precisamos agora instalar as dependências, ainda no terminal, digite:
